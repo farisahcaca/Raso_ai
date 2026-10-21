@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ayam_goreng",
+    "nama_makanan": "Ayam Goreng",
+    "kalori_matang_per_100gr": 290,
+    "deskripsi": "Ayam Goreng Padang merupakan makanan khas Sumatera Barat yang menggunakan berbagai rempah-rempah dan santan sebagai bumbu utama. Ciri khasnya adalah bumbu lengkuas parut yang digoreng kering."
+  },
+  {
+    "id": "ayam_pop",
+    "nama_makanan": "Ayam Pop",
+    "kalori_matang_per_100gr": 210,
+    "deskripsi": "Ayam Pop adalah salah satu olahan ayam khas Minangkabau yang memiliki warna putih pucat yang khas. Ayam direbus terlebih dahulu dengan air kelapa dan bumbu rempah sebelum digoreng sebentar dalam minyak panas."
+  },
+  {
+    "id": "daging_rendang",
+    "nama_makanan": "Daging Rendang",
+    "kalori_matang_per_100gr": 195,
+    "deskripsi": "Rendang adalah masakan daging asli Indonesia yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan."
+  },
+  {
+    "id": "dendeng_batokok",
+    "nama_makanan": "Dendeng Batokok",
+    "kalori_matang_per_100gr": 260,
+    "deskripsi": "Dendeng Batokok adalah masakan khas Sumatera Barat yang terbuat dari irisan tipis dan lebar daging sapi yang dipukul-pukul (ditokok) agar bumbu lebih meresap, lalu diguyur sambal cabai hijau atau merah kasar."
+  },
+  {
+    "id": "gulai_ikan",
+    "nama_makanan": "Gulai Ikan",
+    "kalori_matang_per_100gr": 136,
+    "deskripsi": "Gulai Ikan khas Padang biasanya menggunakan ikan kakap atau tongkol yang dimasak dalam kuah bumbu gulai yang kaya rempah, bercita rasa gurih, pedas, dan sedikit asam dari asam kandis."
+  },
+  {
+    "id": "gulai_tambusu",
+    "nama_makanan": "Gulai Tambusu",
+    "kalori_matang_per_100gr": 245,
+    "deskripsi": "Gulai Tambusu adalah masakan khas Minangkabau berupa usus sapi yang diisi dengan adonan telur dan tahu yang telah dibumbui, kemudian dimasak dalam kuah gulai yang kental."
+  },
+  {
+    "id": "gulai_tunjang",
+    "nama_makanan": "Gulai Tunjang",
+    "kalori_matang_per_100gr": 252,
+    "deskripsi": "Gulai Tunjang adalah hidangan khas Padang yang menggunakan bahan dasar kikil atau urat kaki sapi. Teksturnya kenyal dan dimasak dalam kuah gulai bersantan tebal dan kaya rempah."
+  },
+  {
+    "id": "telur_balado",
+    "nama_makanan": "Telur Balado",
+    "kalori_matang_per_100gr": 201,
+    "deskripsi": "Telur Balado adalah hidangan telur rebus yang digoreng sebentar hingga berkulit, lalu dimasak bersama bumbu balado khas Minang yang berbahan dasar cabai merah, bawang merah, dan tomat."
+  },
+  {
+    "id": "telur_dadar",
+    "nama_makanan": "Telur Dadar",
+    "kalori_matang_per_100gr": 321,
+    "deskripsi": "Telur Dadar Padang memiliki ciri khas bentuknya yang tebal, padat, dan renyah di luar. Ketebalan ini didapat dari penambahan tepung, kelapa parut sangrai, serta daun bawang dan seledri yang melimpah."
+  }
+]
